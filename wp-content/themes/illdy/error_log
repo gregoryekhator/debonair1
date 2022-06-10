@@ -1,0 +1,8 @@
+[31-Jan-2021 22:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/illdy/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/illdy/index.php on line 10
+[31-Jan-2021 22:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/illdy/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/illdy/index.php on line 10

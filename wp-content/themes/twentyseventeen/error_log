@@ -1,0 +1,337 @@
+[05-Dec-2017 19:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[19-Dec-2017 14:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[27-Dec-2017 15:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Dec-2017 07:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Jan-2018 16:27:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Jan-2018 00:48:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[23-May-2018 13:07:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[04-Jun-2018 14:34:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-Jul-2018 06:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-Jul-2018 06:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[29-Jul-2018 09:41:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Sep-2018 00:28:22 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[30-Sep-2018 00:28:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[10-Oct-2018 16:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[16-Oct-2018 00:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Oct-2018 10:18:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2018 09:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 11:26:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Oct-2018 15:35:31 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[20-Oct-2018 15:35:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 17:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 17:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 19:13:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/archive.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 20:55:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[20-Oct-2018 22:36:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[21-Oct-2018 00:19:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[21-Oct-2018 16:12:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[22-Oct-2018 18:14:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Oct-2018 02:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[31-Oct-2018 20:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[01-Nov-2018 19:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[02-Nov-2018 19:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
+[07-Mar-2019 15:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-May-2019 13:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[09-May-2019 17:03:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[09-May-2019 17:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[10-May-2019 05:26:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[10-May-2019 05:27:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-May-2019 19:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[19-May-2019 05:09:22 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 05:09:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 05:10:23 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 05:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 05:11:08 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 05:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 05:12:44 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 05:12:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[02-Jun-2019 18:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[03-Jun-2019 02:12:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Jun-2019 09:33:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[15-Jun-2019 06:09:08 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[15-Jun-2019 06:09:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 17:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Jul-2019 02:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 17:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 17:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 04:13:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[18-Jul-2019 17:58:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 17:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 17:59:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[21-Jul-2019 20:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[21-Jul-2019 20:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[21-Jul-2019 20:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Aug-2019 09:24:57 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[06-Aug-2019 09:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[29-Sep-2019 10:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2019 06:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[23-Oct-2019 04:26:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[23-Oct-2019 04:27:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Nov-2019 08:14:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[24-Jun-2020 04:34:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[11-Jul-2020 01:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[29-Jul-2020 06:25:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Sep-2020 14:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Dec-2020 02:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[28-Dec-2020 12:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Dec-2020 19:12:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Dec-2020 05:33:50 UTC] PHP Notice:  Undefined index: wp_version in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[30-Dec-2020 05:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[30-Jan-2021 10:05:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[31-Jan-2021 03:15:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[16-Feb-2021 14:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[16-Feb-2021 14:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Feb-2021 07:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Feb-2021 13:47:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[18-Apr-2021 02:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-May-2021 08:22:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[16-May-2021 17:43:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[23-May-2021 21:23:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Jul-2021 11:10:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[24-Aug-2021 14:05:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/footer.php on line 22

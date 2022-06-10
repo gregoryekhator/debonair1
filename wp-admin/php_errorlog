@@ -1,0 +1,114 @@
+[26-Sep-2021 23:55:46 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[01-Dec-2021 10:27:12 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[06-Dec-2021 15:40:26 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[09-Dec-2021 18:46:48 UTC] PHP Warning:  Use of undefined constant int - assumed 'int' (this will throw an Error in a future version of PHP) in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wp-smart-crm-invoices-free/inc/crm/documenti/accountabilities/accountability_print_0.php on line 89
+[21-Dec-2021 13:32:39 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[26-Dec-2021 12:47:56 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[29-Dec-2021 05:09:27 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[31-Dec-2021 05:56:00 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[17-Jan-2022 10:14:06 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[25-Jan-2022 09:37:53 UTC] PHP Warning:  Use of undefined constant int - assumed 'int' (this will throw an Error in a future version of PHP) in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wp-smart-crm-invoices-free/inc/crm/documenti/accountabilities/accountability_print_0.php on line 89
+[25-Jan-2022 09:49:07 UTC] PHP Warning:  Use of undefined constant int - assumed 'int' (this will throw an Error in a future version of PHP) in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wp-smart-crm-invoices-free/inc/crm/documenti/accountabilities/accountability_print_0.php on line 89
+[01-Feb-2022 20:23:09 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-Feb-2022 03:05:28 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[27-Feb-2022 09:53:11 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[08-Mar-2022 07:35:54 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[16-Apr-2022 11:49:35 UTC] WordPress database error Unknown column 'invoice.shipping' in 'field list' for query SELECT
+
+            voucher.editable,
+            voucher.currency,
+
+            invoice.id,
+            invoice.voucher_no,
+            invoice.customer_id,
+            invoice.customer_name,
+            invoice.trn_date,
+            invoice.due_date,
+            invoice.billing_address,
+            invoice.amount,
+            invoice.discount,
+            invoice.discount_type,
+            invoice.shipping,
+            invoice.shipping_tax,
+            invoice.tax,
+            invoice.tax_zone_id,
+            invoice.estimate,
+            invoice.attachments,
+            invoice.status,
+            invoice.particulars,
+            invoice.created_at,
+
+            inv_acc_detail.debit,
+            inv_acc_detail.credit
+
+        FROM wp_erp_acct_invoices as invoice
+        LEFT JOIN wp_erp_acct_voucher_no as voucher ON invoice.voucher_no = voucher.id
+        LEFT JOIN wp_erp_acct_invoice_account_details as inv_acc_detail ON invoice.voucher_no = inv_acc_detail.trn_no
+        WHERE invoice.voucher_no = 1 made by activate_plugin, do_action('activate_erp/wp-erp.php'), WP_Hook->do_action, WP_Hook->apply_filters, WeDevs_ERP_Installer->activate, WeDevs\ERP\Updates->perform_updates, include('/plugins/erp/includes/updates/update-1.5.4.php'), wperp_update_accounting_module_1_5_4, erp_acct_updater_regenerate_transaction_pdfs, erp_acct_get_transaction, erp_acct_get_invoice
+[16-Apr-2022 11:49:35 UTC] WordPress database error Unknown column 'invoice.shipping' in 'field list' for query SELECT
+
+            voucher.editable,
+            voucher.currency,
+
+            invoice.id,
+            invoice.voucher_no,
+            invoice.customer_id,
+            invoice.customer_name,
+            invoice.trn_date,
+            invoice.due_date,
+            invoice.billing_address,
+            invoice.amount,
+            invoice.discount,
+            invoice.discount_type,
+            invoice.shipping,
+            invoice.shipping_tax,
+            invoice.tax,
+            invoice.tax_zone_id,
+            invoice.estimate,
+            invoice.attachments,
+            invoice.status,
+            invoice.particulars,
+            invoice.created_at,
+
+            inv_acc_detail.debit,
+            inv_acc_detail.credit
+
+        FROM wp_erp_acct_invoices as invoice
+        LEFT JOIN wp_erp_acct_voucher_no as voucher ON invoice.voucher_no = voucher.id
+        LEFT JOIN wp_erp_acct_invoice_account_details as inv_acc_detail ON invoice.voucher_no = inv_acc_detail.trn_no
+        WHERE invoice.voucher_no = 2 made by activate_plugin, do_action('activate_erp/wp-erp.php'), WP_Hook->do_action, WP_Hook->apply_filters, WeDevs_ERP_Installer->activate, WeDevs\ERP\Updates->perform_updates, include('/plugins/erp/includes/updates/update-1.5.4.php'), wperp_update_accounting_module_1_5_4, erp_acct_updater_regenerate_transaction_pdfs, erp_acct_get_transaction, erp_acct_get_invoice
+[16-Apr-2022 11:49:35 UTC] WordPress database error Unknown column 'invoice.shipping' in 'field list' for query SELECT
+
+            voucher.editable,
+            voucher.currency,
+
+            invoice.id,
+            invoice.voucher_no,
+            invoice.customer_id,
+            invoice.customer_name,
+            invoice.trn_date,
+            invoice.due_date,
+            invoice.billing_address,
+            invoice.amount,
+            invoice.discount,
+            invoice.discount_type,
+            invoice.shipping,
+            invoice.shipping_tax,
+            invoice.tax,
+            invoice.tax_zone_id,
+            invoice.estimate,
+            invoice.attachments,
+            invoice.status,
+            invoice.particulars,
+            invoice.created_at,
+
+            inv_acc_detail.debit,
+            inv_acc_detail.credit
+
+        FROM wp_erp_acct_invoices as invoice
+        LEFT JOIN wp_erp_acct_voucher_no as voucher ON invoice.voucher_no = voucher.id
+        LEFT JOIN wp_erp_acct_invoice_account_details as inv_acc_detail ON invoice.voucher_no = inv_acc_detail.trn_no
+        WHERE invoice.voucher_no = 3 made by activate_plugin, do_action('activate_erp/wp-erp.php'), WP_Hook->do_action, WP_Hook->apply_filters, WeDevs_ERP_Installer->activate, WeDevs\ERP\Updates->perform_updates, include('/plugins/erp/includes/updates/update-1.5.4.php'), wperp_update_accounting_module_1_5_4, erp_acct_updater_regenerate_transaction_pdfs, erp_acct_get_transaction, erp_acct_get_invoice
+[16-Apr-2022 11:49:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query DESC  made by activate_plugin, do_action('activate_erp/wp-erp.php'), WP_Hook->do_action, WP_Hook->apply_filters, WeDevs_ERP_Installer->activate, WeDevs\ERP\Updates->perform_updates, include('/plugins/erp/includes/updates/update-1.6.3.php'), WeDevs\ERP\HRM\Update\erp_acct_alter_invoice_receipts_1_6_3
+[26-May-2022 00:48:47 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[26-May-2022 02:56:09 UTC] PHP Warning:  Creating default object from empty value in /home/customer/www/debonairtraining.com/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44

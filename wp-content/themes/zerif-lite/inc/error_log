@@ -1,0 +1,4 @@
+[14-Dec-2018 11:48:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/themes/zerif-lite/inc/template-tags.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/zerif-lite/inc/template-tags.php on line 153

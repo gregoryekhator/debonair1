@@ -1,0 +1,1178 @@
+[02-Jan-2020 15:06:01 UTC] WordPress database error Query execution was interrupted for query SELECT name, val, autoload FROM wp_wfConfig WHERE name = 'wordfenceCentralConnected' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/wordfence/wordfence.php'), wordfence::install_actions, wfCentral::isConnected, wfConfig::get
+[09-Feb-2020 17:19:43 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[10-Feb-2020 08:28:00 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[25-Feb-2020 17:26:20 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-Mar-2020 13:22:42 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[05-Mar-2020 10:40:32 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[23-Mar-2020 02:30:08 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[23-Mar-2020 02:38:51 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[24-Mar-2020 19:48:11 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-Apr-2020 09:12:43 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-Apr-2020 09:21:28 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[05-Apr-2020 18:36:06 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[09-Apr-2020 19:46:35 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[09-Apr-2020 20:01:31 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[13-Apr-2020 17:51:21 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[15-Apr-2020 08:01:48 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[15-Apr-2020 17:56:06 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[17-Apr-2020 16:22:45 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[18-Apr-2020 06:06:20 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[19-Apr-2020 05:25:33 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[29-Apr-2020 19:09:14 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/debonairtraining/public_html/wp-includes/update.php on line 162
+[29-Apr-2020 19:09:34 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/debonairtraining/public_html/wp-admin/includes/plugin-install.php on line 182
+[29-Apr-2020 19:09:53 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/debonairtraining/public_html/wp-admin/includes/plugin-install.php on line 182
+[29-Apr-2020 19:10:16 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/debonairtraining/public_html/wp-admin/includes/plugin-install.php on line 182
+[29-Apr-2020 19:10:39 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/debonairtraining/public_html/wp-admin/includes/plugin-install.php on line 182
+[29-Apr-2020 19:11:03 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/debonairtraining/public_html/wp-admin/includes/plugin-install.php on line 182
+[29-Apr-2020 19:11:30 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/debonairtraining/public_html/wp-admin/includes/plugin-install.php on line 182
+[28-Jun-2020 11:46:27 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 11:46:27 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 11:46:27 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Frank
+        )
+
+    [last_name] => Array
+        (
+            [0] => Obadan
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => frankobadan@yahoo.com
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => cdbbcb230c6fe4203f5608cb0019a709
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 11:46:27
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5294
+        )
+
+    [password] => Array
+        (
+            [0] => frankobadan@yahoo.com
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=2e60b3fe65223382e2b044065337e0da&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5294" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => 2e60b3fe65223382e2b044065337e0da
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 11:51:51 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 11:51:51 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 11:51:51 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Gloria
+        )
+
+    [last_name] => Array
+        (
+            [0] => Imaefula
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => glorsa@yahoo.co.uk
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => ce9a9bc02a463bfb7f663af0a3c46ed7
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 11:51:51
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5295
+        )
+
+    [password] => Array
+        (
+            [0] => glorsa@yahoo.co.uk
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=b76a2e08440a046eeea5c8e6ffb2abb1&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5295" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => b76a2e08440a046eeea5c8e6ffb2abb1
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 11:54:37 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 11:54:37 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 11:54:37 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Roseline
+        )
+
+    [last_name] => Array
+        (
+            [0] => Udosa
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => waodi1@yahoo.com
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => b94b320dd7fb1012cb0cb23e289bd0d8
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 11:54:37
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5296
+        )
+
+    [password] => Array
+        (
+            [0] => waodi1@yahoo.com
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=833fd6c9474bc927e2815b532d9af9f7&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5296" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => 833fd6c9474bc927e2815b532d9af9f7
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 11:56:24 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 11:56:24 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 11:56:24 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => TesterEbook
+        )
+
+    [last_name] => Array
+        (
+            [0] => TesterEbook
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => testerE@debonairtraining.com
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => 256134953523b778d2c6b96bdb757d50
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 11:56:24
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5297
+        )
+
+    [password] => Array
+        (
+            [0] => testerE@debonairtraining.com
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=ec5791352c9793c932f16d13841e68a1&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5297" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => ec5791352c9793c932f16d13841e68a1
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 11:58:51 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 11:58:51 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 11:58:51 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Gregor
+        )
+
+    [last_name] => Array
+        (
+            [0] => Gregory
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => greg@debonairtraining.com
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => a0cef69bbfb08fe79488e294f6dbfcfb
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 11:58:51
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5298
+        )
+
+    [password] => Array
+        (
+            [0] => greg@debonairtraining.com
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=806cacb8b292d1f8b001b48340497dea&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5298" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => 806cacb8b292d1f8b001b48340497dea
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 12:01:11 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 12:01:11 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 12:01:11 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Monica
+        )
+
+    [last_name] => Array
+        (
+            [0] => Esechie
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => monkimvan@gmail.com
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => 90f578c86e1f0df14df7eddea70492f8
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 12:01:11
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5299
+        )
+
+    [password] => Array
+        (
+            [0] => monkimvan@gmail.com
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=1817f7a0c8563ccb082e4672ddfe4d5b&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5299" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => 1817f7a0c8563ccb082e4672ddfe4d5b
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 12:04:35 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 12:04:35 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 12:04:35 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Toksi
+        )
+
+    [last_name] => Array
+        (
+            [0] => Omage
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => toksiomage24@gmail.com
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => e439be6816650bacff42a0b8102e95ea
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 12:04:35
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5300
+        )
+
+    [password] => Array
+        (
+            [0] => toksiomage24@gmail.com
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=d0f3af5e62817f1e939537ae57b9e209&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5300" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => d0f3af5e62817f1e939537ae57b9e209
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 13:57:42 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 13:57:42 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 13:57:42 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Remi
+        )
+
+    [last_name] => Array
+        (
+            [0] => Rodriguez
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => chris7rod7@yahoo.co.uk
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => 62c2f0b64e5ee66328e39cfde52f82a6
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 13:57:42
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5303
+        )
+
+    [password] => Array
+        (
+            [0] => chris7rod7@yahoo.co.uk
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=f9342284501e1ff6498764c3c01aa06e&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5303" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => f9342284501e1ff6498764c3c01aa06e
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 14:00:58 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 14:00:58 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 14:00:58 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Frank
+        )
+
+    [last_name] => Array
+        (
+            [0] => Obadan
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => francis.obadan@sgholdingslimited.com
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => b5459bab5b6af23050a85d11a19925c7
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 14:00:58
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5304
+        )
+
+    [password] => Array
+        (
+            [0] => francis.obadan@sgholdingslimited.com
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=d323960b0c6fc6deca729572f0628b12&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5304" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => d323960b0c6fc6deca729572f0628b12
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[28-Jun-2020 20:45:20 UTC] No auto registration enabled. Exiting.
+[28-Jun-2020 20:45:20 UTC] TEMP dir /home/debonairtraining/public_html/wp-content/uploads/
+[28-Jun-2020 20:45:20 UTC] 2345 Array
+(
+    [first_name] => Array
+        (
+            [0] => Egbe
+        )
+
+    [last_name] => Array
+        (
+            [0] => Okojie
+        )
+
+    [mc_gross] => Array
+        (
+            [0] => 0.00
+        )
+
+    [ebook] => Array
+        (
+            [0] => 452
+        )
+
+    [payer_email] => Array
+        (
+            [0] => egbeokojie@gmail.com
+        )
+
+    [md5_nonce] => Array
+        (
+            [0] => dd7f694465d9d9169b82e81a0c5ea204
+        )
+
+    [mc_fee] => Array
+        (
+            [0] => 0
+        )
+
+    [item_name] => Array
+        (
+            [0] => Restructuring or Acculturing 1 of Nigeria by Gregory Ekhator (e-Book )
+        )
+
+    [payment_date] => Array
+        (
+            [0] => 06/28/2020 20:45:20
+        )
+
+    [txn_id] => Array
+        (
+            [0] => Manual Payment
+        )
+
+    [mc_currency] => Array
+        (
+            [0] => GBP
+        )
+
+    [residence_country] => Array
+        (
+            [0] => n/a
+        )
+
+    [user_id] => Array
+        (
+            [0] => 1
+        )
+
+    [order_id] => Array
+        (
+            [0] => 5312
+        )
+
+    [password] => Array
+        (
+            [0] => egbeokojie@gmail.com
+        )
+
+    [downloadlink] => Array
+        (
+            [0] => https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?ebook_key=0d51de31ed787f1dca4821db6afee929&action=download&ebook=restructuring-acculturing-1-nigeria-gregory-ekhator-e-book
+        )
+
+    [downloadlink_html] => Array
+        (
+            [0] => <a href="https://www.debonairtraining.com/ebook/restructuring-acculturing-1-nigeria-gregory-ekhator-e-book/?action=wc_order_download&ebook_id=452&format=pdf&order_id=5312" target="_blank">PDF</a> <small><em>(3.38M)</em></small>
+        )
+
+    [ebook_key] => Array
+        (
+            [0] => 0d51de31ed787f1dca4821db6afee929
+        )
+
+    [download_links] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+    [downloadlinks] => Array
+        (
+            [0] => No other file formats are available for this ebook.
+        )
+
+)
+
+[13-Dec-2020 07:45:09 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[14-Dec-2020 10:20:59 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[16-Dec-2020 14:36:46 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[20-Dec-2020 11:40:23 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[20-Dec-2020 23:07:32 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[21-Dec-2020 21:01:09 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[23-Dec-2020 19:40:40 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[25-Dec-2020 18:53:40 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[31-Dec-2020 21:19:10 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[02-Jan-2021 00:10:46 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[06-Jan-2021 14:33:57 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[07-Jan-2021 13:25:58 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[09-Jan-2021 07:53:55 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[09-Jan-2021 17:39:01 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[12-Jan-2021 03:56:32 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[15-Jan-2021 22:22:39 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[20-Jan-2021 08:32:52 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[22-Jan-2021 19:33:55 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[23-Jan-2021 06:45:08 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[27-Jan-2021 21:33:51 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[30-Jan-2021 22:59:22 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[31-Jan-2021 23:53:39 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[02-Feb-2021 09:39:16 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[04-Feb-2021 07:13:38 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[08-Feb-2021 21:05:15 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[18-Feb-2021 22:05:08 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[21-Feb-2021 21:00:19 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[23-Feb-2021 06:30:46 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[26-Feb-2021 16:13:59 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[27-Feb-2021 22:50:36 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[01-Mar-2021 19:51:14 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[08-Mar-2021 04:33:42 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[14-Mar-2021 12:27:41 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[18-Mar-2021 08:49:59 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[24-Mar-2021 21:10:04 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[30-Mar-2021 18:53:36 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[30-Mar-2021 20:24:10 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[01-Apr-2021 20:12:46 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-Apr-2021 09:28:24 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[05-Apr-2021 06:16:42 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[07-Apr-2021 17:18:00 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[08-Apr-2021 18:43:39 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[13-Apr-2021 01:04:50 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[15-Apr-2021 22:00:12 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[17-Apr-2021 14:02:29 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[21-Apr-2021 07:17:07 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[23-Apr-2021 23:07:44 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[25-Apr-2021 08:01:43 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[27-Apr-2021 13:34:21 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-May-2021 15:09:28 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[04-May-2021 06:15:14 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[12-May-2021 05:40:51 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[17-May-2021 04:12:49 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[19-May-2021 10:53:03 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[21-May-2021 22:01:20 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[27-May-2021 14:56:16 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[31-May-2021 04:41:22 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[31-May-2021 08:23:51 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[04-Jun-2021 01:16:23 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[04-Jun-2021 15:15:27 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[04-Jun-2021 17:40:06 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[04-Jun-2021 22:01:49 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[06-Jun-2021 00:20:46 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[08-Jun-2021 07:15:04 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[09-Jun-2021 12:54:26 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[11-Jun-2021 23:07:56 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[12-Jun-2021 20:17:54 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[13-Jun-2021 22:27:18 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[14-Jun-2021 19:32:39 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[19-Jun-2021 09:03:15 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[21-Jun-2021 03:58:27 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[26-Jun-2021 00:02:59 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[27-Jun-2021 15:53:31 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[27-Jun-2021 23:42:16 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[29-Jun-2021 04:03:25 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-Jul-2021 23:25:49 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[05-Jul-2021 22:28:33 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[07-Jul-2021 08:43:50 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[09-Jul-2021 00:23:18 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[10-Jul-2021 12:33:16 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[11-Jul-2021 00:28:17 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[13-Jul-2021 13:24:10 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[17-Jul-2021 06:18:57 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[20-Jul-2021 04:07:39 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[21-Jul-2021 09:23:05 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[26-Jul-2021 17:19:42 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-Aug-2021 11:24:52 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[03-Aug-2021 18:16:49 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[05-Aug-2021 15:16:11 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[06-Aug-2021 06:00:06 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44
+[30-Aug-2021 07:39:51 UTC] PHP Warning:  Creating default object from empty value in /home/debonairtraining/public_html/wp-content/plugins/wordapp-mobile-app/freemius/start.php on line 44

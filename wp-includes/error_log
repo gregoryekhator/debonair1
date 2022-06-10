@@ -1,0 +1,42 @@
+[24-Jun-2020 04:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/debonairtraining/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-includes/rss.php on line 19
+[11-Jul-2020 01:49:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/debonairtraining/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-includes/rss.php on line 19
+[11-Jul-2020 01:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/debonairtraining/public_html/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-includes/rss-functions.php on line 9
+[23-Sep-2020 06:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/debonairtraining/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-includes/locale.php on line 11
+[24-Sep-2020 18:11:29 UTC] PHP Fatal error:  Class 'Walker' not found in /home/debonairtraining/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[31-Jan-2021 22:49:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/debonairtraining/public_html/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-includes/rss-functions.php on line 9
+[26-Feb-2021 12:04:57 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/debonairtraining/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[26-Feb-2021 12:04:59 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/debonairtraining/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[26-Feb-2021 12:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/debonairtraining/public_html/wp-includes/update.php:873
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-includes/update.php on line 873
+[02-Jul-2021 09:37:25 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[02-Jul-2021 09:37:25 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[02-Jul-2021 09:37:25 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[02-Jul-2021 09:37:25 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[02-Jul-2021 09:37:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[17-Jul-2021 20:08:15 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[17-Jul-2021 20:08:15 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[17-Jul-2021 20:08:15 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[17-Jul-2021 20:08:15 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[17-Jul-2021 20:08:15 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/debonairtraining/public_html/wp-includes/functions.php on line 8
+[27-Jul-2021 04:53:36 UTC] PHP Fatal error:  Class 'Walker' not found in /home/debonairtraining/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[28-Jul-2021 22:00:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/debonairtraining/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-includes/locale.php on line 11

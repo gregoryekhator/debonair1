@@ -1,0 +1,4 @@
+[26-Feb-2021 12:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/debonairtraining/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-includes/theme-compat/embed-content.php on line 13

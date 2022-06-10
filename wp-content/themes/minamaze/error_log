@@ -1,0 +1,28 @@
+[07-Dec-2017 03:18:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php on line 8
+[07-Dec-2017 07:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php on line 8
+[18-Dec-2017 18:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php on line 8
+[21-Dec-2017 16:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php on line 8
+[20-Jan-2018 16:27:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/minamaze/index.php on line 8
+[05-Feb-2018 04:02:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/minamaze/search.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/minamaze/search.php on line 8
+[05-Feb-2018 04:02:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/debonairtraining/public_html/wp-content/themes/minamaze/search.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/minamaze/search.php on line 8

@@ -1,0 +1,4 @@
+[08-Jun-2020 08:26:58 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/debonairtraining/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[08-Sep-2020 17:25:29 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/debonairtraining/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[12-Sep-2020 16:31:57 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/debonairtraining/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[13-Sep-2020 08:19:23 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/debonairtraining/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

@@ -1,0 +1,16 @@
+[15-Dec-2021 09:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/debonairtraining.com/public_html/wp-content/themes/zerif-lite/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/debonairtraining.com/public_html/wp-content/themes/zerif-lite/404.php on line 7
+[15-Dec-2021 09:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/debonairtraining.com/public_html/wp-content/themes/zerif-lite/archive.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/debonairtraining.com/public_html/wp-content/themes/zerif-lite/archive.php on line 7
+[15-Dec-2021 09:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/customer/www/debonairtraining.com/public_html/wp-content/themes/zerif-lite/header.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/debonairtraining.com/public_html/wp-content/themes/zerif-lite/header.php on line 10
+[15-Dec-2021 09:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/debonairtraining.com/public_html/wp-content/themes/zerif-lite/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/debonairtraining.com/public_html/wp-content/themes/zerif-lite/index.php on line 13

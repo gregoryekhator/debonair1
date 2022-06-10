@@ -1,0 +1,20 @@
+[07-Nov-2017 10:56:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/plugins/hello.php on line 60
+[25-Nov-2017 00:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/plugins/hello.php on line 60
+[25-Nov-2017 00:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/plugins/hello.php on line 60
+[25-Nov-2017 00:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/plugins/hello.php on line 60
+[19-Dec-2017 14:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/plugins/hello.php on line 60

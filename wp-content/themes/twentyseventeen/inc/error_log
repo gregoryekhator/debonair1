@@ -1,0 +1,24 @@
+[06-Dec-2018 10:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 12:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 23:29:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[07-Dec-2018 05:35:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-May-2019 08:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 18:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/debonairtraining/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
